@@ -1,3 +1,3 @@
-#SAHAYAK
+#SAHAYAK #
 The team of btech cse Ui/Ux 4th sem student explaining a world problem statement on our minor project !!!.
 A UX/UI research project that analyzes the difficulties faced by non-English users while using mobile applications. The project highlights issues such as language dependency, poor icon interpretation, and complex user flows that reduce accessibility for first-time and low-literacy users. Based on user research and UX principles, the project proposes design improvements including simplified navigation, language-neutral visuals, and inclusive onboarding experiences, with a special focus on Indian users.
